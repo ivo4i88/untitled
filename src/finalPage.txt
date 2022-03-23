@@ -1,0 +1,7 @@
+so far we learn Git flow for
+commit---> push
+
+and
+
+ewmote---> local
+pull/ update
